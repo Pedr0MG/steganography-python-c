@@ -20,13 +20,6 @@ O projeto demonstra a interoperabilidade entre uma linguagem de alto nível (Pyt
 ## Como Executar
 
 ### 1. Ocultar a mensagem (Python)
-No terminal, execute o injetor passando a imagem alvo:
-'''bash
-py SteganoInjector.py sua_imagem.bmp
-
-## Como Executar
-
-### 1. Ocultar a mensagem (Python)
 No terminal, execute o injetor passando a imagem alvo como argumento:
 '''bash
 py SteganoInjector.py sua_imagem.bmp
